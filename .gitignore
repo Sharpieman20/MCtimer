@@ -1,0 +1,8 @@
+setup.py
+modded.py
+counter.py
+default.py
+**/dist/**
+**/build/**
+**/mctimer-0.1.app/**
+modded_counter.py
